@@ -13,5 +13,5 @@ I am a proactive person and I try to do my best in daily projects, I am always l
 
 <!--[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() -->
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRQJDMRmbfKDhXntJvtXwfqGXKSPckdGLbLZrHLbLfQWpPvvSfjQWNhgXHHBtgWKZNfhQV)
-[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([+55(83)999310642](https://wa.me/qr/BFGX4IKFOB5HG1))
+[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/BFGX4IKFOB5HG1)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-albuquerque-1b1832328/)
