@@ -1,4 +1,4 @@
-![img]([https://i.pinimg.com/originals/79/6d/b5/796db5deaf3ca9a927736d4b12cc3086.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif))
+![img](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=True&random=false&width=435&lines=Hello+Dev's,+Welcome+My+Profile;My+Name+is+Levi+Adler;I'm+19+years+old;I'm+From+Paraíba,Brazil;I+study+Computer+Science)](https://git.io/typing-svg)
 
