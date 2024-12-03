@@ -4,8 +4,8 @@
 
 ![leviadler05 GitHub stats](https://github-readme-stats.vercel.app/api?username=leviadler05&show_icons=true&theme=transparent&text_color=FFFFFF)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leviadler05&layout=compact&text_color=FFFFFF&theme=transparent&hide=jupyter%20notebook)
 
-## 🔭 I am currently working and studying
-[![My Skills](https://skillicons.dev/icons?i=python,php,cpp,html,css,mysql,)](https://skillicons.dev)
+## 🔭 I am currently studying
+[![My Skills](https://skillicons.dev/icons?i=python,php,js,html,css,mysql,)](https://skillicons.dev)
 
 ## 💬 Ask me about ...
 I am a proactive person and I try to do my best in daily projects, I am always looking for new knowledge about the area of ​​Development and Technology. I constantly try to improve my SoftSkills and my performance in group projects
