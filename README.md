@@ -7,7 +7,7 @@
 
 
 ## 💬 About Me ...
-- I am a proactive person and I try to do my best in daily projects, I am always looking for new knowledge about the area of ​​Development and Technology. I constantly try to improve my SoftSkills and my performance in group projects
+ I am a proactive person and I try to do my best in daily projects, I am always looking for new knowledge about the area of ​​Development and Technology. I constantly try to improve my SoftSkills and my performance in group projects
 
   
 - 📚 Currently focused on frontend development and exploring full-stack projects.
