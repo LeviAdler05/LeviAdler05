@@ -8,13 +8,15 @@
 
 ## 💬 About Me ...
 - I am a proactive person and I try to do my best in daily projects, I am always looking for new knowledge about the area of ​​Development and Technology. I constantly try to improve my SoftSkills and my performance in group projects
+
+  
 - 📚 Currently focused on frontend development and exploring full-stack projects.
 - 💡 Passionate about continuous learning, teamwork, and solving complex challenges.
 - 🌍 From Paraíba, Brazil, pursuing a degree in Computer Science.
 
 
+
 ## 📫 How to reach me:
-<!-- -->
 <!--[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() -->
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRQJDMRmbfKDhXntJvtXwfqGXKSPckdGLbLZrHLbLfQWpPvvSfjQWNhgXHHBtgWKZNfhQV)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/BFGX4IKFOB5HG1)
