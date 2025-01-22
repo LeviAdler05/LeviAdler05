@@ -5,8 +5,14 @@
 ## 🔭 I am currently studying
 [![My Skills](https://skillicons.dev/icons?i=python,php,js,html,css,mysql,)](https://skillicons.dev)
 
-## 💬 Ask me about ...
-I am a proactive person and I try to do my best in daily projects, I am always looking for new knowledge about the area of ​​Development and Technology. I constantly try to improve my SoftSkills and my performance in group projects
+
+## 💬 About Me ...
+- I am a proactive person and I try to do my best in daily projects, I am always looking for new knowledge about the area of ​​Development and Technology. I constantly try to improve my SoftSkills and my performance in group projects
+- 📚 Currently focused on frontend development and exploring full-stack projects.
+- 💡 Passionate about continuous learning, teamwork, and solving complex challenges.
+- 🌍 From Paraíba, Brazil, pursuing a degree in Computer Science.
+
+
 ## 📫 How to reach me:
 <!-- -->
 <!--[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() -->
