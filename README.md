@@ -7,6 +7,11 @@
 ## 🔭 I am currently studying
 [![My Skills](https://skillicons.dev/icons?i=python,php,js,html,css,mysql,)](https://skillicons.dev)
 
+## 📂 Featured Projects
+### 🔧 [CampusCare](https://github.com/CampusCare-tech/CampusCare-Unipe.git)
+- **Description**: Application for managing maintenance and support requests at university campuses.
+- **Technologies**: PHP, JavaScript, MySQL, HTML, CSS.
+
 ## 💬 Ask me about ...
 I am a proactive person and I try to do my best in daily projects, I am always looking for new knowledge about the area of ​​Development and Technology. I constantly try to improve my SoftSkills and my performance in group projects
 ## 📫 How to reach me:
