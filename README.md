@@ -3,7 +3,7 @@
 ![leviadler05 GitHub stats](https://github-readme-stats.vercel.app/api?username=leviadler05&show_icons=true&theme=transparent&text_color=FFFFFF)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leviadler05&layout=compact&text_color=FFFFFF&theme=transparent&hide=jupyter%20notebook)
 
 ## 🔭 I am currently studying
-[![My Skills](https://skillicons.dev/icons?i=python,php,js,html,css,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,php,js,html,css,mysql,)](https://skillicons.dev)
 
 
 ## 💬 About Me ...
